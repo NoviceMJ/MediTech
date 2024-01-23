@@ -65,7 +65,7 @@ This initiative facilitates online appointment requests for clients or patients 
 
 ## Screenshots
 
-| ![](https://github.com/NoviceMJ/MediTech/blob/main/Screenshots/Screenshot%20(1).png) | ![](https://github.com/NoviceMJ/MediTech/blob/main/Screenshots/Screenshot%20(2).jpg| ![](https://github.com/NoviceMJ/MediTech/blob/main/Screenshots/Screenshot%20(3).jpg)| ![](https://github.com/NoviceMJ/MediTech/blob/main/Screenshots/Screenshot%20(4).jpg)|
+| ![](https://github.com/NoviceMJ/MediTech/blob/main/Screenshots/Screenshot%20(1).png) | ![](https://github.com/NoviceMJ/MediTech/blob/main/Screenshots/Screenshot%20(2).jpg) | ![](https://github.com/NoviceMJ/MediTech/blob/main/Screenshots/Screenshot%20(3).jpg)| ![](https://github.com/NoviceMJ/MediTech/blob/main/Screenshots/Screenshot%20(4).jpg)|
 |--------------| --------------|   --------------|  --------------|    
 |  ![](https://github.com/NoviceMJ/MediTech/blob/main/Screenshots/Screenshot%20(5).jpg)| ![](https://github.com/NoviceMJ/MediTech/blob/main/Screenshots/Screenshot%20(6).jpg)| ![](https://github.com/NoviceMJ/MediTech/blob/main/Screenshots/Screenshot%20(7).jpg)| ![](https://github.com/NoviceMJ/MediTech/blob/main/Screenshots/Screenshot%20(8).jpg)|
 
