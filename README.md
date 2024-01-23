@@ -44,10 +44,10 @@ This initiative facilitates online appointment requests for clients or patients 
 | ![](https://github.com/NoviceMJ/MediTech/blob/main/Screenshots/Screenshot%20(3).jpg)| ![](https://github.com/NoviceMJ/MediTech/blob/main/Screenshots/Screenshot%20(9).jpg) |    ![](https://github.com/NoviceMJ/MediTech/blob/main/Screenshots/Screenshot%20(6).jpg)  |
 
  # Team Members: 
--1. Madhurjya Saloi <br/>
--2. Arindam Bhattacharjya <br/>
--3. Rubul Hoque Choudhury <br/>
--4. Nilotpal Kashyap Baruah<br/>
+- 1. Madhurjya Saloi <br/>
+- 2. Arindam Bhattacharjya <br/>
+- 3. Rubul Hoque Choudhury <br/>
+- 4. Nilotpal Kashyap Baruah<br/>
   
 -----------------------------------------------
 
